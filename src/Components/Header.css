@@ -1,0 +1,17 @@
+.cnt {
+
+    height: 55vh;
+    top: 0;
+}
+.button1 {
+    background-color: #ddd;
+    border: none;
+    
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+}

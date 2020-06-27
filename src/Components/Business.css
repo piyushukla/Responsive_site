@@ -1,0 +1,38 @@
+body,html {
+
+    padding: 0;
+    margin: 0;
+}
+.row {
+    content: "";
+    display: table;
+    clear: both;
+    width: 100%;
+}
+.artigo_nome {
+    background-color:#E6E6FA;
+    display: inline-block;
+    max-width: 350px;
+    word-break: break-all;
+    /* optional */
+}
+
+.column1 {
+
+        float: left;
+        width: 40%;
+    /* Should be removed. Only for demonstration */
+}
+.column2 {
+
+    float: right;
+    width: 50%;
+    /* Should be removed. Only for demonstration */
+}
+.image {
+
+    border: 2px solid #fff;
+    box-shadow: 15px 15px 12px #C0C0C0;
+    width: 90%;
+    z-index: -1;
+}

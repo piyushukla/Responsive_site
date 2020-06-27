@@ -1,0 +1,43 @@
+.row {
+    content: "";
+    display: table;
+    clear: both;
+    width: 100%;
+    margin-top: 7%;
+    margin-bottom: 10%;
+}
+
+.artigo_nome {
+    background-color: #E6E6FA;
+    display: table;
+    width: 50%;
+    margin: 0 auto;
+    margin-left: 20%;
+    padding: 10px;
+    word-break: break-all;
+    /* optional */
+}
+
+
+.img {
+
+    border: 2px solid #fff;
+    float: right;
+    width: 115%;
+}
+.col1 {
+
+   float: left;
+   width: 70%;
+   background-color:#E6E6FA;
+   max-width: 70%;
+   word-break: break-all;
+   height: 400px;
+}
+.col2{
+
+    float: left;
+    width: 30%;
+    height: 100%;
+
+}
