@@ -16,7 +16,7 @@ function Services(){
  
             <div className="row" style={{display:"flex",width:"50%",margin:"0 auto"}}>
 
-                <div className="col-lg-4 col-md-4 col-xl-3 column">
+                <div className="col-lg-3 col-md-4 col-xl-3 column">
 
 
                         <div >
@@ -25,7 +25,7 @@ function Services(){
                        </div>              
 
                 </div>
-                <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ backgroundColor: "#F7F0EE", borderRadius: "1px solid #F0FFF0"}}>
+                <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ backgroundColor: "#F7F0EE", borderRadius: "1px solid #F0FFF0"}}>
 
 
                         
@@ -35,7 +35,7 @@ function Services(){
 
 
                 </div>
-                <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ backgroundColor: "#FCF9E9", borderRadius: "1px solid #F0FFF0"}}>
+                <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ backgroundColor: "#FCF9E9", borderRadius: "1px solid #F0FFF0"}}>
 
 
                            <img className="center" src="/assets/brain.png" alt="brain" style={{ width: "25px", height: "25px" }} />
@@ -43,7 +43,7 @@ function Services(){
                         
 
                 </div>
-                <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ backgroundColor: "#F8F8FF", borderRadius: "1px solid #F0FFF0"}}>
+                <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ backgroundColor: "#F8F8FF", borderRadius: "1px solid #F0FFF0"}}>
 
                         
                             <img className="center" src="/assets/brain.png" alt="brain" style={{ width: "25px", height: "25px" }} />
@@ -53,7 +53,7 @@ function Services(){
             </div>    
                 <div className="row" style={{ display: "flex", width: "50%", margin: "0 auto", boxShadow: "10px 15px 15px #A9A9A9" }}>
 
-                    <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #0000CD", backgroundColor: "#F5F5F5"}}>
+                    <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #0000CD", backgroundColor: "#F5F5F5"}}>
 
 
                         
@@ -64,7 +64,7 @@ function Services(){
 
 
                 </div>
-                    <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #DCDCDC", backgroundColor: "#FDFCE8" }}>
+                    <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #DCDCDC", backgroundColor: "#FDFCE8" }}>
 
 
                        
@@ -74,7 +74,7 @@ function Services(){
 
 
                 </div>
-                    <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #D3D3D3", backgroundColor: "#F3F3F1" }}>
+                    <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #D3D3D3", backgroundColor: "#F3F3F1" }}>
 
 
                         
@@ -83,7 +83,7 @@ function Services(){
                     
 
                 </div>
-                    <div className="col-lg-4 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #C0C0C0", backgroundColor: "#FDF5E6" }}>
+                    <div className="col-lg-3 col-md-4 col-xl-3 column" style={{ borderRadius: "1px #C0C0C0", backgroundColor: "#FDF5E6" }}>
 
                         
                         <img className="center" src="/assets/brain.png" alt="brain" style={{ width: "25px", height: "25px" }} />
